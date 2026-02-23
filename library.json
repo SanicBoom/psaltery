@@ -37,5 +37,73 @@
     "spiccato_fs4_main_spic_rr1": "spiccato/BowedPsaltery_F#4_Main_Spic_rr1.wav",
     "spiccato_fs5_main_spic_rr4": "spiccato/BowedPsaltery_F#5_Main_Spic_rr4.wav",
     "spiccato_gs4_main_spic_rr3": "spiccato/BowedPsaltery_G#4_Main_Spic_rr3.wav"
-  }
+  },
+  "noteMap": [
+    {
+      "note": "A#3",
+      "sample": "pluck_as3_main_pluck_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C4",
+      "sample": "longbow_c4_main_longbow_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D4",
+      "sample": "longbow_d4_main_longbow_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "E4",
+      "sample": "longbow_e4_main_longbow_rr2",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F#4",
+      "sample": "longbow_fs4_main_longbow_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G#4",
+      "sample": "longbow_gs4_main_longbow_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A#4",
+      "sample": "pluck_as4_main_pluck_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C5",
+      "sample": "longbow_c5_main_longbow_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D5",
+      "sample": "pluck_d5_main_pluck_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "E5",
+      "sample": "pluck_e5_main_pluck_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F#5",
+      "sample": "longbow_fs5_main_longbow_rr2",
+      "loVel": 0,
+      "hiVel": 127
+    }
+  ]
 }
